@@ -27,10 +27,10 @@ Designed in KiCAD, was a bit tedious but it works. Here are some screenshots:
 | ![Screenshot 2025-07-07 142400](Screenshots/Screenshot%202025-07-07%20142400.png) | ![Screenshot 2025-07-07 142422](Screenshots/Screenshot%202025-07-07%20142422.png) |
 
 ## BOM
-1x XIAO RP2040
-4x Cherry MX switches
-4x Heatset inserts (M3x5x4)
-4x screws (M3x16)
+1x XIAO RP2040 \
+4x Cherry MX switches \
+4x Heatset inserts (M3x5x4) \
+4x screws (M3x16) \
 3d printing Filament
 
 ## Make your own Hackpad!
