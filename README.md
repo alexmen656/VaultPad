@@ -18,6 +18,7 @@ Made the 3D model in Fusion 360 and imported the PCB from KiCAD. The microcontro
 | 1. Image   | 2. Image  |
 |------------|-----------|
 | ![Screenshot 2025-07-07 142400](Screenshots/Screenshot%202025-07-07%20142513.png) | ![Screenshot 2025-07-07 142422](Screenshots/Screenshot%202025-07-07%20142344.png) |
+| ![Image1](Screenshots/image.png) | ![Image2](Screenshots/image2.png) |
 
 ## The PCB
 Designed in KiCAD, was a bit tedious but it works. Here are some screenshots:
