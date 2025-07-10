@@ -30,6 +30,7 @@ Designed in KiCAD, was a bit tedious but it works. Here are some screenshots:
 ## BOM
 1x XIAO RP2040 \
 4x Cherry MX switches \
+4x SK6812 MINI-E LEDs \
 4x Heatset inserts (M3x5x4) \
 4x screws (M3x16) \
 3d printing Filament
