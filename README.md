@@ -25,7 +25,7 @@ Designed in KiCAD, was a bit tedious but it works. Here are some screenshots:
 
 | 1. Image   | 2. Image  |
 |------------|-----------|
-| ![Screenshot 2025-07-07 142400](Screenshots/Screenshot%202025-07-07%20142400.png) | ![Screenshot 2025-07-07 142422](Screenshots/Screenshot%202025-07-07%20142422.png) |
+| ![PCB 1](Screenshots/pcb1.png) | ![PCB 2](Screenshots/pcb2.png) |
 
 ## BOM
 1x XIAO RP2040 \
